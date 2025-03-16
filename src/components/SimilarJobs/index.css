@@ -1,0 +1,10 @@
+.li-similarjob-container {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  background-color: #475569;
+  padding: 20px;
+  border: 0px;
+  border-radius: 12px;
+  margin: 10px;
+}

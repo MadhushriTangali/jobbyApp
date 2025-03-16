@@ -1,0 +1,31 @@
+.header-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #202020;
+  height: 10vh;
+  padding: 20px;
+  width: 100%;
+}
+
+.ul-link-container {
+  display: flex;
+  list-style-type: none;
+}
+
+.link {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  font-size: 28px;
+  text-decoration: none;
+  margin: 20px;
+}
+
+.logout-button {
+  background-color: #6366f1;
+  color: #ffffff;
+  padding: 20px;
+  border: 0px;
+  border-radius: 12px;
+  font-size: 24px;
+}

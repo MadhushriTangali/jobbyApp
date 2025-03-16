@@ -1,0 +1,35 @@
+.employment-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.employment-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.label {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 600;
+  margin: 12px;
+}
+
+.input-checkbox {
+  height: 30px;
+  width: 30px;
+  margin: 12px;
+}
+
+.ul-type-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.li-type-container {
+  display: flex;
+}

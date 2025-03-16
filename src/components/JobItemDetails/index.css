@@ -1,0 +1,54 @@
+.anchor {
+  text-decoration: none;
+  color: #6366f1;
+  font-size: 24px;
+  font-family: 'Roboto';
+}
+
+.anchor-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.jobitem-details-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #121212;
+  padding: 20px;
+  border: 0px;
+  border-radius: 12px;
+  margin: 10px;
+}
+
+.ul-skill-container {
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+  width: 1000px;
+}
+
+.ul-similar-container {
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+  width: 1000px;
+}
+
+.life-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.life-image {
+  width: 40%;
+}
+
+.desc {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 25px;
+  width: 400px;
+}
